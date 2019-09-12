@@ -18,17 +18,18 @@ const IndexPage = props => (
             <p className="js-header">
               Joshua Sisley
               <br />
-              Full Stack JavaScript Developer
+              Freelance Software Engineer
             </p>
             <p>
               I am a Full Stack JavaScript Developer who is passionate about
-              solving real world problems with creative technical solutions!
+              solving real world Healthcare problems with creative technical
+              solutions!
             </p>
             <a
               href="https://goo.gl/forms/aUAhUoOI7a4taYPc2"
               className="btn-hero-green"
             >
-              Get to know me
+              Hire Me
             </a>
           </div>
           <div>
